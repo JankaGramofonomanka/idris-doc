@@ -16,7 +16,7 @@ authors = "Jan Serwatka"
 -- depends =
 
 -- modules to install
-modules = Doc
+modules = Data.Doc
 
 -- main file (i.e. file to load at REPL)
 -- main =
