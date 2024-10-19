@@ -1,0 +1,10 @@
+[custom.all.doc]
+type = "local"
+path = "."
+ipkg = "doc.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.doc-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
